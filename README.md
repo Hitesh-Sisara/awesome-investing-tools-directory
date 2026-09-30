@@ -1,4 +1,4 @@
-# 📈 +271 Awesome Investing Tools for Investors
+# 📈 +275 Awesome Investing Tools for Investors
 
 > Curated list of investment tools, datasets, and research portals. 🧰
 
@@ -9,10 +9,10 @@
 
 | Section | Tools |
 | --- | ---: |
-| [📊 Research & Valuation](#research-and-valuation) | 21 |
+| [📊 Research & Valuation](#research-and-valuation) | 22 |
 | [🧾 Filings & Transcripts](#filings-and-transcripts) | 7 |
-| [👥 Ownership & Holders](#ownership-and-holders) | 12 |
-| [📡 Market Data & Alerts](#market-data-and-alerts) | 73 |
+| [👥 Ownership & Holders](#ownership-and-holders) | 13 |
+| [📡 Market Data & Alerts](#market-data-and-alerts) | 74 |
 | [🔎 Screening & Discovery](#screening-and-discovery) | 87 |
 | [🧪 Portfolio & Backtesting](#portfolio-and-backtesting) | 24 |
 | [⚙️ Options & Derivatives](#options-and-derivatives) | 4 |
@@ -20,16 +20,17 @@
 | [🧺 ETFs & Funds](#etfs-and-funds) | 1 |
 | [🤖 Automation & APIs](#automation-and-apis) | 6 |
 | [🛡️ Compliance](#compliance) | 6 |
-| [🔗 Crypto & On-chain](#crypto-and-on-chain) | 2 |
+| [🔗 Crypto & On-chain](#crypto-and-on-chain) | 3 |
 | [🎓 Education & Community](#education-and-community) | 8 |
 | [🧮 Calculators](#calculators) | 1 |
 | [✨ Other](#other) | 2 |
 
 ---
 
-### Research & Valuation (21)
+### Research & Valuation (22)
 
 - [Asset Allocation Interactive (AAI) - Research Affiliates](https://interactive.researchaffiliates.com/asset-allocation) - A free interactive platform that publishes Research Affiliates' capital market expectations each month. You can explore expected returns, correlations, and...
+- [BubbleWatch](https://bubblewatch.ca) - Market valuation and bubble-risk indicators dashboard (Shiller CAPE-style gauges, breadth, sentiment). Free, no signup.
 - [Calcbench](https://www.calcbench.com) - SEC-filings and earnings-release data platform built for analysts. Coverage includes as-reported financial statements, footnotes/disclosures text, segments &...
 - [Damodaran - Cost of Capital by Sector (US)](https://pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/wacc.html) - US industry-level WACC dataset compiled by Prof. Aswath Damodaran. Includes sector betas, cost of equity, cost of debt (pre/after-tax), capital structure...
 - [Damodaran Online (NYU Stern)](https://pages.stern.nyu.edu/~adamodar/) - Free academic resource curated by Professor Aswath Damodaran (NYU Stern). It hosts annually updated valuation and corporate-finance datasets, Excel models,...
@@ -69,7 +70,7 @@
 
 ---
 
-### Ownership & Holders (12)
+### Ownership & Holders (13)
 
 - [Capitol Trades](https://www.capitoltrades.com) - Free, public dashboard tracking U.S. politicians' trade disclosures under the STOCK Act. Near real-time postings of newly published disclosures, with rich...
 - [CEO Watcher](https://www.ceowatcher.com) - US-insider trade discovery & ranking tool. CEO Watcher calculates historical forward returns after insiders' trades (e.g., 1m/3m/6m/1y) and uses this to rank...
@@ -79,6 +80,7 @@
 - [IBorrowDesk](https://www.iborrowdesk.com) - Tracks stock-loan availability and borrow fee data as reported by Interactive Brokers (IBKR). Updates roughly every 15 minutes during North American trading...
 - [Insider Monitor](https://www.insider-monitor.com) - Free, U.S.-focused insider-trading tracker centered on SEC Forms 3/4/5. Provides near-real-time ('minutes or seconds' after filing) feeds of insider...
 - [InsiderScore (VerityData | InsiderScore)](https://www.insiderscore.com) - Institutional-grade datasets and research on insider transactions (Form 4), stock buybacks/authorizations, management changes, and institutional holdings...
+- [InsiderTrace](https://insidertrace.com) - Insider trading tracker: screen recent Form 4 filings, cluster buys, and insider leaderboards by company. Free, no signup.
 - [ORTEX](https://public.ortex.com) - Analytics platform focused on short interest and securities lending, with additional coverage of options flow, insider trades, analyst views, and index...
 - [SecForm4.Com](https://www.secform4.com) - A US-focused insider trading and ownership tracking service with real-time alerts, institutional dashboards, and specialized screeners. Plans gate access to...
 - [Wall St. Rank](https://www.wallstrank.com) - Fund- and analyst-consensus explorer with an API. Core pillars: 13F-based fund portfolios & trends (incl. new/closed/increased/reduced positions and...
@@ -88,7 +90,7 @@
 
 ---
 
-### Market Data & Alerts (73)
+### Market Data & Alerts (74)
 
 - [Alpha Vantage](https://www.alphavantage.co) - Exchange-licensed, API-first market data provider for global equities, ETFs, mutual funds, FX, crypto, options, commodities and macro indicators. Free key...
 - [Bank of England (Statistics & Data)](https://www.bankofengland.co.uk) - Free central bank data portal covering UK interest rates, yield curves, macroeconomic indicators, and daily reference series. The Statistical Database supports...
@@ -152,6 +154,7 @@
 - [Similarweb](https://www.similarweb.com) - Digital intelligence platform providing website and app traffic data, engagement benchmarks, and competitive insights. API access is sold separately or bundled...
 - [Social Blade](https://socialblade.com) - Analytics for social channels including YouTube, TikTok, Twitch, Instagram, and Facebook. Features include rankings, projections, and estimated earnings....
 - [StockAlert Pro](https://stockalert.pro) - Alert-first platform for stocks & ETFs with 21 configurable alert types (price/technical/volume/fundamental/dividends/time), a daily AI watchlist assistant, and...
+- [StockEyes](https://stockeyes.com) - Free stock research pages: fundamentals, price history, and company snapshots in one place. No signup.
 - [The Wall Street Journal (WSJ)](https://www.wsj.com) - Global business and markets coverage with a deep Market Data Center. Many articles and tools sit behind a WSJ Digital subscription, though some newsletters...
 - [The Zen of Investing](https://thezenofinvesting.com) - A free, niche site dedicated to spinoffs and special situations. It maintains curated lists of upcoming and recent spinoffs, often linking directly to investor...
 - [Tiingo](https://www.tiingo.com) - Flat-rate market data platform with simple, transparent plans. Tiingo provides end-of-day and real-time APIs for equities, mutual funds, ETFs, forex, and...
@@ -362,8 +365,9 @@
 
 ---
 
-### Crypto & On-chain (2)
+### Crypto & On-chain (3)
 
+- [CryptosEyes](https://cryptoseyes.com) - Crypto market data plus company-level Bitcoin holdings and value (e.g. Strategy, Tesla). Free, no signup.
 - [Dune](https://dune.com) - Community-driven onchain data platform for SQL-based dashboards, APIs and real-time data across 100+ blockchains. Uses a usage-based credit system (Free,...
 - [Glassnode](https://glassnode.com) - On-chain market intelligence platform covering BTC, ETH and multi-asset crypto with derivatives, spot/ETF, and DeFi datasets. Studio offers charts, Workbench...
 
